@@ -6,6 +6,7 @@ public class StockAccountManagement {
 
 	public static void main(String[] args) {
 		System.out.println("Stock Account Management Program ! \n");
+		System.out.println("this is first a program");
 		Scanner sc = new Scanner(System.in);
 		StockManager stockManager = new StockManager();
 		boolean isExit = false;
